@@ -1,0 +1,27 @@
+PÁGINA DE VENDAS — VERSÃO EM ESPANHOL NEUTRO
+
+ARQUIVO PRINCIPAL: index.html
+
+COMO USAR:
+1. Descompacte este ZIP.
+2. Abra index.html no navegador para consultar a página.
+3. Para publicar, envie index.html e a pasta assets juntos à hospedagem.
+
+O QUE FOI LOCALIZADO:
+- Títulos, subtítulos, descrições, benefícios, bônus, perguntas frequentes, garantia e CTAs.
+- Atributos de acessibilidade e pequenas traduções da interface.
+- Imagens com selos de avaliação e títulos de banners promocionais.
+- Capturas das conversas apresentadas em espanhol, identificadas nas próprias imagens como traduções do português.
+
+O QUE FOI PRESERVADO:
+- Estrutura HTML, CSS, scripts, arquivos multimídia, preços em reais e links externos originais.
+- Fotos e mockups dos materiais, que podem mostrar textos pequenos em português porque representam as capas e páginas dos materiais originais.
+
+ATENÇÃO ANTES DE PUBLICAR:
+- O checkout ainda aponta para o link original brasileiro. Verifique se deseja trocar URL e moeda.
+- A página clonada é estática: funções de servidor e sistemas privados de pagamento não vêm no ZIP.
+- Há duas imagens de catálogo carregadas de URLs externas do site de origem. Verifique sua disponibilidade após publicar.
+- Confira se as afirmações de resultados, descontos, avaliações e prazos são verdadeiras para sua oferta.
+- Recomenda-se inspecionar a aparência final no desktop e no celular antes de colocar anúncios.
+
+Este arquivo contém a tradução e adaptação da página; não traduz o conteúdo dos produtos digitais que aparecem nas fotos.
